@@ -1,244 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7dd3fc&height=280&section=header&text=Hi%20There,%20I'm%20Akash%20Lodhi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Crafting%20Full-Stack%20Experiences%20with%20the%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Full-Stack+Applications;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Real-Time+Systems+with+Socket.IO;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Akashlodhi928&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Akashlodhi928?color=0ea5e9&style=for-the-badge&label=FOLLOWERS&logo=github" alt="followers"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-7dd3fc?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collab"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Akash Lodhi banner" src="assets/banner-light.svg" width="100%">
+</picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/social-media-1.gif" width="100%">
+<div align="center">
 
-<br/>
+### Hi, I'm Akash Lodhi 👋
+**Full Stack Developer | MERN Stack Developer**
 
-## 🧑‍💻 About Me
+_Building scalable web applications with modern technologies._
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/laptop-gif.gif" width="350"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Akashlodhi928-181717?style=for-the-badge&logo=github)](https://github.com/Akashlodhi928)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Lodhi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-lodhi-dev/)
+[![Email](https://img.shields.io/badge/Email-akashlodhi928-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlodhi928@gmail.com)
 
-- 🔭 I specialize in building **full-stack, real-time web applications** using the **MERN stack**
-- 🌱 Currently sharpening my skills in **TypeScript**, **Next.js**, and scalable backend architecture
-- ⚡ I love turning complex problems into **clean, intuitive, and performant** digital products
-- 🤝 Open to **collaborations**, **freelance work**, and **full-stack developer opportunities**
-- 📫 Reach me at **akashlodhi928@gmail.com**
-- 🧠 Fun fact: I enjoy building real-time features (chat, live tracking, notifications) with **Socket.IO**
+</div>
 
-```typescript
-const akashLodhi = {
-  role: "MERN Stack Developer",
-  location: "India 🇮🇳",
-  stack: {
-    frontend: ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "REST APIs", "Socket.IO", "JWT Authentication"],
-    database: ["MongoDB", "Mongoose"],
-    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-  },
-  currentFocus: "Building production-grade full-stack applications",
-  launchedProjects: [
-    "Employee Attendance Management System",
-    "Food Delivery System",
-  ],
-  philosophy: "Write code that solves real problems, elegantly.",
-  openTo: ["Full-Stack Roles", "Freelance Projects", "Open Source Collaboration"],
-};
-```
+<br>
 
-<br/>
+<div align="center">
+  <img src="assets/lanyard.svg" alt="Akash Lodhi developer lanyard" width="260">
+</div>
 
-## 🛠️ Tech Arsenal
+<br>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm a **Full Stack Developer** specializing in the **MERN stack**, building scalable, production-ready web applications end to end.
+- 🌱 Currently deepening my knowledge of advanced backend architecture, system design, and API performance.
+- 💡 I enjoy turning complex problems into clean, maintainable code and intuitive user experiences.
+- 🤝 Open to collaborating on full-stack projects, open-source contributions, and interesting engineering challenges.
+- 📫 Reach me at **akashlodhi928@gmail.com** — always happy to talk code, architecture, or new ideas.
+- ⚡ Fun fact: my ideal day is `Code → Learn → Build → Repeat`.
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+**Frontend**
 
-**Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+**Backend**
 
-<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-**Backend Development**
+**Database & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
-
-<br/><br/>
-
-**Database & Storage**
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<br/><br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,npm" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
-
-## 🎯 Current Focus
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Building
-Scalable full-stack applications with clean architecture, secure authentication, and real-time capabilities.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning
-Advanced TypeScript patterns, Next.js App Router, and system design fundamentals.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 Collaborating On
-Open-source MERN projects and full-stack opportunities where I can contribute meaningfully.
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Ask Me About
-React.js, Node.js, Express.js, MongoDB, REST APIs, and real-time app development.
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔗 Project One</h3>
+      <p>A full-stack MERN application with authentication, real-time updates, and a scalable REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔗 Project Two</h3>
+      <p>A Next.js powered platform with JWT authentication, Cloudinary media handling, and a Tailwind CSS interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔗 Project Three</h3>
+      <p>A real-time chat / collaboration tool built with Socket.IO, Express, and a Redux Toolkit powered frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔗 Project Four</h3>
+      <p>A Django REST Framework backend serving a data-driven dashboard with secure, documented APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 1️⃣ Employee Attendance Management System
+<br>
 
-*A secure, full-stack MERN application for real-time workforce tracking.*
-
-Built with role-based access control, geolocation-based check-ins, live image capture, and instant updates powered by Socket.IO — designed to streamline attendance operations for organizations of any size.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashlodhi928&repo=employee-attendance-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
-
-| Layer | Technology |
-|---|---|
-| 💻 Frontend | React.js, Redux Toolkit, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js, Socket.IO, JWT Authentication |
-| 🗄️ Database | MongoDB, Mongoose |
-
-**[🔗 View Repository](https://github.com/Akashlodhi928/employee-attendance-management-system)**
-
-<br/>
-
-### 2️⃣ Food Delivery System
-
-*A complete full-stack food ordering platform with a customer and admin experience.*
-
-Features secure authentication, dynamic menu management, cart handling, seamless order processing, and a dedicated admin dashboard for real-time operational control.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashlodhi928&repo=food-delivery-system-mern&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
-
-| Layer | Technology |
-|---|---|
-| 💻 Frontend | React.js, Redux Toolkit, Bootstrap |
-| ⚙️ Backend | Node.js, Express.js, REST APIs, JWT Authentication |
-| 🗄️ Database | MongoDB, Mongoose |
-
-**[🔗 View Repository](https://github.com/Akashlodhi928/food-delivery-system-mern)**
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/github-contribution-grid-snake-in-dark-mode.svg" width="100%">
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akashlodhi928&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashlodhi928&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=Akashlodhi928&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
-
-</div>
-
-### 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akashlodhi928&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" width="100%"/>
+  <img src="assets/stats.svg" alt="Akash Lodhi GitHub stats" width="620">
 </div>
 
-### 📈 Contribution Activity
+<br>
+
+## 🧩 Most Used Languages
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashlodhi928&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true&area=true" width="100%"/>
+  <img src="assets/langs.svg" alt="Akash Lodhi most used languages" width="420">
 </div>
 
-<br/>
+<br>
 
-## 🏅 Achievements & Milestones
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-🎯 Designed and shipped **2 production-ready full-stack applications** end-to-end  
-⚡ Built **real-time features** using Socket.IO for live tracking and instant updates  
-🔐 Implemented **secure, role-based authentication systems** using JWT  
-🧩 Developed **RESTful APIs** powering scalable client-server architectures  
-📈 Continuously contributing to and maintaining public GitHub repositories
-
+  <img src="assets/trophies.svg" alt="Akash Lodhi GitHub trophies" width="100%">
 </div>
 
-<br/>
+<br>
 
-## 💬 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akash-lodhi-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:akashlodhi928@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Akashlodhi928" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake.svg">
+  <img alt="Akash Lodhi contribution snake" src="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
-<br/>
+<br>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-### ⭐ "Code is like humor. When you have to explain it, it's bad." — *Cory House*
-
-*Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.* 🚀
+[![GitHub](https://img.shields.io/badge/GitHub-Akashlodhi928-181717?style=for-the-badge&logo=github)](https://github.com/Akashlodhi928)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Lodhi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-lodhi-dev/)
+[![Email](https://img.shields.io/badge/Email-akashlodhi928-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlodhi928@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:0ea5e9,100:0f172a&height=150&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+<div align="center">
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akashlodhi928&label=Profile%20Views&color=9b5cff&style=for-the-badge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Keep Coding · Keep Learning · Keep Growing**
+
+Made with ❤️ by **Akash Lodhi**
+
+</div>
