@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="Akash Lodhi banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1">
+  <img src="assets/banner.svg?v=1" alt="Akash Lodhi banner" width="100%">
 </picture>
 
 <br>
 
-<img src="lanyard.svg?v=1" alt="Akash Lodhi ID badge" width="260">
+<img src="assets/lanyard.svg?v=1" alt="Akash Lodhi ID badge" width="260">
 
 <br><br>
 
@@ -73,25 +73,25 @@
 <tr>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="stats-light.svg?v=1">
-  <img src="stats.svg?v=1" alt="GitHub Stats" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=1">
+  <img src="assets/stats.svg?v=1" alt="GitHub Stats" width="100%">
 </picture>
 </td>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1">
-  <img src="langs.svg?v=1" alt="Most Used Languages" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=1">
+  <img src="assets/langs.svg?v=1" alt="Most Used Languages" width="100%">
 </picture>
 </td>
 </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="trophies.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1">
-  <img src="trophies.svg?v=1" alt="GitHub Trophies" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=1">
+  <img src="assets/trophies.svg?v=1" alt="GitHub Trophies" width="100%">
 </picture>
 
 > **Note:** These are local, self-contained SVG cards (no rate-limited third-party card services). The numbers are placeholders — swap in your real values, or wire up a small script against the GitHub API to regenerate them on a schedule.
