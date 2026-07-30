@@ -1,42 +1,36 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Akash Lodhi banner" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Akash Lodhi banner" width="100%">
 </picture>
 
-</div>
+<br>
 
-<div align="center">
+<img src="lanyard.svg?v=1" alt="Akash Lodhi ID badge" width="260">
 
-### Hi, I'm Akash Lodhi 👋
-**Full Stack Developer | MERN Stack Developer**
+<br><br>
 
-_Building scalable web applications with modern technologies._
+<a href="mailto:akashlodhi928@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-akashlodhi928%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/Akashlodhi928">
+  <img src="https://img.shields.io/badge/GitHub-Akashlodhi928-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Akashlodhi928-181717?style=for-the-badge&logo=github)](https://github.com/Akashlodhi928)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Lodhi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-lodhi-dev/)
-[![Email](https://img.shields.io/badge/Email-akashlodhi928-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlodhi928@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Akashlodhi928&style=for-the-badge&color=d6249f&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="assets/lanyard.svg" alt="Akash Lodhi developer lanyard" width="260">
-</div>
+## 🧑‍💻 About Me
 
-<br>
-
-## 👨‍💻 About Me
-
-- 🔭 I'm a **Full Stack Developer** specializing in the **MERN stack**, building scalable, production-ready web applications end to end.
-- 🌱 Currently deepening my knowledge of advanced backend architecture, system design, and API performance.
-- 💡 I enjoy turning complex problems into clean, maintainable code and intuitive user experiences.
-- 🤝 Open to collaborating on full-stack projects, open-source contributions, and interesting engineering challenges.
-- 📫 Reach me at **akashlodhi928@gmail.com** — always happy to talk code, architecture, or new ideas.
-- ⚡ Fun fact: my ideal day is `Code → Learn → Build → Repeat`.
+- 🚀 MERN Stack Developer who loves turning ideas into fast, scalable web apps
+- 🌱 Currently deepening my skills in Next.js, system design & real-time applications
+- 💬 Ask me about React, Node.js, Express, MongoDB, or REST API design
+- ⚡ Fun fact: my daily loop is `code()` → `debug()` → `ship()` → `repeat()`
 
 <br>
 
@@ -44,39 +38,24 @@ _Building scalable web applications with modern technologies._
 
 <div align="center">
 
-**Languages & Core**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-**Database & APIs**
-
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Tools & Platforms**
-
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -87,74 +66,60 @@ _Building scalable web applications with modern technologies._
 
 <br>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔗 Project One</h3>
-      <p>A full-stack MERN application with authentication, real-time updates, and a scalable REST API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔗 Project Two</h3>
-      <p>A Next.js powered platform with JWT authentication, Cloudinary media handling, and a Tailwind CSS interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔗 Project Three</h3>
-      <p>A real-time chat / collaboration tool built with Socket.IO, Express, and a Redux Toolkit powered frontend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔗 Project Four</h3>
-      <p>A Django REST Framework backend serving a data-driven dashboard with secure, documented APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white">
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="assets/stats.svg" alt="Akash Lodhi GitHub stats" width="620">
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="stats-light.svg?v=1">
+  <img src="stats.svg?v=1" alt="GitHub Stats" width="100%">
+</picture>
+</td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="langs.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1">
+  <img src="langs.svg?v=1" alt="Most Used Languages" width="100%">
+</picture>
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="trophies.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1">
+  <img src="trophies.svg?v=1" alt="GitHub Trophies" width="100%">
+</picture>
+
+> **Note:** These are local, self-contained SVG cards (no rate-limited third-party card services). The numbers are placeholders — swap in your real values, or wire up a small script against the GitHub API to regenerate them on a schedule.
+
 </div>
 
 <br>
 
-## 🧩 Most Used Languages
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="assets/langs.svg" alt="Akash Lodhi most used languages" width="420">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashlodhi928&theme=react-dark&hide_border=true&bg_color=1a0b2e&color=ff4fd8&line=a855f7&point=ffffff" alt="Contribution activity graph" width="100%">
+
 </div>
 
 <br>
 
-## 🏆 GitHub Trophies
+## 📁 Featured Projects
 
-<div align="center">
-  <img src="assets/trophies.svg" alt="Akash Lodhi GitHub trophies" width="100%">
-</div>
+| Project | Tech Stack | Description | Link |
+|---|---|---|---|
+| MERN E-Commerce Platform | React · Node.js · Express · MongoDB · JWT | Full-featured storefront with cart, auth, and admin dashboard | [Repo](https://github.com/Akashlodhi928) |
+| Real-Time Chat App | Socket.IO · React · Node.js · MongoDB | Live messaging app with rooms, typing indicators & auth | [Repo](https://github.com/Akashlodhi928) |
+| Task Management SaaS | Next.js · Redux Toolkit · REST APIs | Kanban-style productivity app with drag-and-drop boards | [Repo](https://github.com/Akashlodhi928) |
+| Blog CMS with Django REST | Django · DRF · React · PostgreSQL | Headless CMS powering a decoupled React frontend | [Repo](https://github.com/Akashlodhi928) |
+
+> Replace these rows with your actual pinned repositories and live demo links.
 
 <br>
 
@@ -165,20 +130,10 @@ _Building scalable web applications with modern technologies._
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake.svg">
-  <img alt="Akash Lodhi contribution snake" src="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Akashlodhi928/Akashlodhi928/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
 </picture>
 
-</div>
-
-<br>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Akashlodhi928-181717?style=for-the-badge&logo=github)](https://github.com/Akashlodhi928)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Lodhi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-lodhi-dev/)
-[![Email](https://img.shields.io/badge/Email-akashlodhi928-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlodhi928@gmail.com)
+*Generated daily by the `github-snake.yml` GitHub Action (Platane/snk) → pushed to the `output` branch.*
 
 </div>
 
@@ -186,18 +141,12 @@ _Building scalable web applications with modern technologies._
 
 <div align="center">
 
-### 👁️ Profile Views
+### 💌 Let's Connect & Build Something Great
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akashlodhi928&label=Profile%20Views&color=9b5cff&style=for-the-badge)
+<a href="mailto:akashlodhi928@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hi-akashlodhi928%40gmail.com-ff4fd8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
+</a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-**Keep Coding · Keep Learning · Keep Growing**
-
-Made with ❤️ by **Akash Lodhi**
+<sub>⭐ From [Akashlodhi928](https://github.com/Akashlodhi928) — thanks for stopping by!</sub>
 
 </div>
