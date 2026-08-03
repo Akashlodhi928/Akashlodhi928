@@ -1,10 +1,89 @@
 <svg width="470" height="300" viewBox="0 0 470 300" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Verdana,Helvetica,Arial,sans-serif"><defs><linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#fdf2ff"/><stop offset="100%" stop-color="#fce7ff"/>
+    </linearGradient><linearGradient id="barRepos" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#e879f9"/><stop offset="100%" stop-color="#c026d3"/>
+    </linearGradient><linearGradient id="barStars" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ffe08a"/><stop offset="100%" stop-color="#ffb020"/>
+    </linearGradient><linearGradient id="barFollowers" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#7dd3fc"/><stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient><linearGradient id="barFollowing" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#86efac"/><stop offset="100%" stop-color="#22c55e"/>
     </linearGradient><linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#d6249f"/><stop offset="100%" stop-color="#8b3fd1"/>
     </linearGradient><filter id="statGlow" x="-60%" y="-60%" width="220%" height="220%">
         <feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter><clipPath id="statsClip"><rect x="0" y="0" width="470" height="300" rx="18"/></clipPath></defs><g clip-path="url(#statsClip)"><rect x="0" y="0" width="470" height="300" fill="url(#statsBg)" stroke="#e3c6f5" stroke-width="1"/><text x="24" y="34" font-size="16" font-weight="700" fill="#4a1361">GitHub Stats</text><line x1="24" y1="44" x2="446" y2="44" stroke="#e3c6f5" stroke-width="1"/><g transform="translate(382,110)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.6s" fill="freeze"/><circle r="54" fill="none" stroke="#eeddfa" stroke-width="10"/><circle r="54" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
-        stroke-dasharray="278.2 339.3" transform="rotate(-90)" filter="url(#statGlow)">
-        <animate attributeName="stroke-dasharray" from="0 339.3" to="278.2 339.3" begin="0.5s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
-    </circle><text x="0" y="-2" text-anchor="middle" font-size="30" font-weight="800" fill="#4a1361">A</text><text x="0" y="18" text-anchor="middle" font-size="10.5" fill="#7a3fa0">RANK</text></g><g transform="translate(24,66)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="-24 0" to="0 0" begin="0.50s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><circle cx="4" cy="-4" r="4" fill="#ffd166" filter="url(#statGlow)"/><text x="16" y="0" font-size="13" fill="#7a3fa0">Total Stars</text><text x="210" y="0" font-size="15" font-weight="800" fill="#ffd166"><tspan opacity="0">0<set attributeName="opacity" to="1" begin="0.55s"/><set attributeName="opacity" to="0" begin="0.64s"/></tspan><tspan opacity="0">12<set attributeName="opacity" to="1" begin="0.64s"/><set attributeName="opacity" to="0" begin="0.73s"/></tspan><tspan opacity="0">25<set attributeName="opacity" to="1" begin="0.73s"/><set attributeName="opacity" to="0" begin="0.82s"/></tspan><tspan opacity="0">38<set attributeName="opacity" to="1" begin="0.82s"/><set attributeName="opacity" to="0" begin="0.91s"/></tspan><tspan opacity="0">51<set attributeName="opacity" to="1" begin="0.91s"/><set attributeName="opacity" to="0" begin="1.00s"/></tspan><tspan opacity="0">64<set attributeName="opacity" to="1" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.09s"/></tspan><tspan opacity="0">76<set attributeName="opacity" to="1" begin="1.09s"/><set attributeName="opacity" to="0" begin="1.18s"/></tspan><tspan opacity="0">89<set attributeName="opacity" to="1" begin="1.18s"/><set attributeName="opacity" to="0" begin="1.27s"/></tspan><tspan opacity="0">102<set attributeName="opacity" to="1" begin="1.27s"/><set attributeName="opacity" to="0" begin="1.36s"/></tspan><tspan opacity="0">115<set attributeName="opacity" to="1" begin="1.36s"/><set attributeName="opacity" to="0" begin="1.45s"/></tspan><tspan opacity="0">128<set attributeName="opacity" to="1" begin="1.45s"/><set attributeName="opacity" to="0" begin="1.54s"/></tspan><tspan opacity="0">128<set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/></tspan></text></g><g transform="translate(24,106)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="-24 0" to="0 0" begin="0.68s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><circle cx="4" cy="-4" r="4" fill="#ff4fd8" filter="url(#statGlow)"/><text x="16" y="0" font-size="13" fill="#7a3fa0">Total Commits</text><text x="210" y="0" font-size="15" font-weight="800" fill="#ff4fd8"><tspan opacity="0">0<set attributeName="opacity" to="1" begin="0.73s"/><set attributeName="opacity" to="0" begin="0.82s"/></tspan><tspan opacity="0">184<set attributeName="opacity" to="1" begin="0.82s"/><set attributeName="opacity" to="0" begin="0.91s"/></tspan><tspan opacity="0">368<set attributeName="opacity" to="1" begin="0.91s"/><set attributeName="opacity" to="0" begin="1.00s"/></tspan><tspan opacity="0">552<set attributeName="opacity" to="1" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.09s"/></tspan><tspan opacity="0">736<set attributeName="opacity" to="1" begin="1.09s"/><set attributeName="opacity" to="0" begin="1.18s"/></tspan><tspan opacity="0">920<set attributeName="opacity" to="1" begin="1.18s"/><set attributeName="opacity" to="0" begin="1.27s"/></tspan><tspan opacity="0">1104<set attributeName="opacity" to="1" begin="1.27s"/><set attributeName="opacity" to="0" begin="1.36s"/></tspan><tspan opacity="0">1288<set attributeName="opacity" to="1" begin="1.36s"/><set attributeName="opacity" to="0" begin="1.45s"/></tspan><tspan opacity="0">1472<set attributeName="opacity" to="1" begin="1.45s"/><set attributeName="opacity" to="0" begin="1.54s"/></tspan><tspan opacity="0">1656<set attributeName="opacity" to="1" begin="1.54s"/><set attributeName="opacity" to="0" begin="1.63s"/></tspan><tspan opacity="0">1840<set attributeName="opacity" to="1" begin="1.63s"/><set attributeName="opacity" to="0" begin="1.72s"/></tspan><tspan opacity="0">1840<set attributeName="opacity" to="1" begin="1.63s" fill="freeze"/></tspan></text></g><g transform="translate(24,146)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.86s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="-24 0" to="0 0" begin="0.86s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><circle cx="4" cy="-4" r="4" fill="#a855f7" filter="url(#statGlow)"/><text x="16" y="0" font-size="13" fill="#7a3fa0">Total PRs</text><text x="210" y="0" font-size="15" font-weight="800" fill="#a855f7"><tspan opacity="0">0<set attributeName="opacity" to="1" begin="0.91s"/><set attributeName="opacity" to="0" begin="1.00s"/></tspan><tspan opacity="0">9<set attributeName="opacity" to="1" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.09s"/></tspan><tspan opacity="0">19<set attributeName="opacity" to="1" begin="1.09s"/><set attributeName="opacity" to="0" begin="1.18s"/></tspan><tspan opacity="0">28<set attributeName="opacity" to="1" begin="1.18s"/><set attributeName="opacity" to="0" begin="1.27s"/></tspan><tspan opacity="0">38<set attributeName="opacity" to="1" begin="1.27s"/><set attributeName="opacity" to="0" begin="1.36s"/></tspan><tspan opacity="0">48<set attributeName="opacity" to="1" begin="1.36s"/><set attributeName="opacity" to="0" begin="1.45s"/></tspan><tspan opacity="0">57<set attributeName="opacity" to="1" begin="1.45s"/><set attributeName="opacity" to="0" begin="1.54s"/></tspan><tspan opacity="0">67<set attributeName="opacity" to="1" begin="1.54s"/><set attributeName="opacity" to="0" begin="1.63s"/></tspan><tspan opacity="0">76<set attributeName="opacity" to="1" begin="1.63s"/><set attributeName="opacity" to="0" begin="1.72s"/></tspan><tspan opacity="0">86<set attributeName="opacity" to="1" begin="1.72s"/><set attributeName="opacity" to="0" begin="1.81s"/></tspan><tspan opacity="0">96<set attributeName="opacity" to="1" begin="1.81s"/><set attributeName="opacity" to="0" begin="1.90s"/></tspan><tspan opacity="0">96<set attributeName="opacity" to="1" begin="1.81s" fill="freeze"/></tspan></text></g><g transform="translate(24,186)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="-24 0" to="0 0" begin="1.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><circle cx="4" cy="-4" r="4" fill="#22d3ee" filter="url(#statGlow)"/><text x="16" y="0" font-size="13" fill="#7a3fa0">Total Issues</text><text x="210" y="0" font-size="15" font-weight="800" fill="#22d3ee"><tspan opacity="0">0<set attributeName="opacity" to="1" begin="1.09s"/><set attributeName="opacity" to="0" begin="1.18s"/></tspan><tspan opacity="0">5<set attributeName="opacity" to="1" begin="1.18s"/><set attributeName="opacity" to="0" begin="1.27s"/></tspan><tspan opacity="0">10<set attributeName="opacity" to="1" begin="1.27s"/><set attributeName="opacity" to="0" begin="1.36s"/></tspan><tspan opacity="0">16<set attributeName="opacity" to="1" begin="1.36s"/><set attributeName="opacity" to="0" begin="1.45s"/></tspan><tspan opacity="0">21<set attributeName="opacity" to="1" begin="1.45s"/><set attributeName="opacity" to="0" begin="1.54s"/></tspan><tspan opacity="0">27<set attributeName="opacity" to="1" begin="1.54s"/><set attributeName="opacity" to="0" begin="1.63s"/></tspan><tspan opacity="0">32<set attributeName="opacity" to="1" begin="1.63s"/><set attributeName="opacity" to="0" begin="1.72s"/></tspan><tspan opacity="0">37<set attributeName="opacity" to="1" begin="1.72s"/><set attributeName="opacity" to="0" begin="1.81s"/></tspan><tspan opacity="0">43<set attributeName="opacity" to="1" begin="1.81s"/><set attributeName="opacity" to="0" begin="1.90s"/></tspan><tspan opacity="0">48<set attributeName="opacity" to="1" begin="1.90s"/><set attributeName="opacity" to="0" begin="1.99s"/></tspan><tspan opacity="0">54<set attributeName="opacity" to="1" begin="1.99s"/><set attributeName="opacity" to="0" begin="2.08s"/></tspan><tspan opacity="0">54<set attributeName="opacity" to="1" begin="1.99s" fill="freeze"/></tspan></text></g><g transform="translate(24,226)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.22s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="-24 0" to="0 0" begin="1.22s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><circle cx="4" cy="-4" r="4" fill="#7dffb3" filter="url(#statGlow)"/><text x="16" y="0" font-size="13" fill="#7a3fa0">Contributed To</text><text x="210" y="0" font-size="15" font-weight="800" fill="#7dffb3"><tspan opacity="0">0<set attributeName="opacity" to="1" begin="1.27s"/><set attributeName="opacity" to="0" begin="1.36s"/></tspan><tspan opacity="0">3<set attributeName="opacity" to="1" begin="1.36s"/><set attributeName="opacity" to="0" begin="1.45s"/></tspan><tspan opacity="0">7<set attributeName="opacity" to="1" begin="1.45s"/><set attributeName="opacity" to="0" begin="1.54s"/></tspan><tspan opacity="0">11<set attributeName="opacity" to="1" begin="1.54s"/><set attributeName="opacity" to="0" begin="1.63s"/></tspan><tspan opacity="0">14<set attributeName="opacity" to="1" begin="1.63s"/><set attributeName="opacity" to="0" begin="1.72s"/></tspan><tspan opacity="0">18<set attributeName="opacity" to="1" begin="1.72s"/><set attributeName="opacity" to="0" begin="1.81s"/></tspan><tspan opacity="0">22<set attributeName="opacity" to="1" begin="1.81s"/><set attributeName="opacity" to="0" begin="1.90s"/></tspan><tspan opacity="0">25<set attributeName="opacity" to="1" begin="1.90s"/><set attributeName="opacity" to="0" begin="1.99s"/></tspan><tspan opacity="0">29<set attributeName="opacity" to="1" begin="1.99s"/><set attributeName="opacity" to="0" begin="2.08s"/></tspan><tspan opacity="0">33<set attributeName="opacity" to="1" begin="2.08s"/><set attributeName="opacity" to="0" begin="2.17s"/></tspan><tspan opacity="0">37<set attributeName="opacity" to="1" begin="2.17s"/><set attributeName="opacity" to="0" begin="2.26s"/></tspan><tspan opacity="0">37<set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/></tspan></text></g></g></svg>
+    </filter><clipPath id="statsClip"><rect x="0" y="0" width="470" height="300" rx="18"/></clipPath></defs>
+
+<g clip-path="url(#statsClip)">
+<rect x="0" y="0" width="470" height="300" fill="url(#statsBg)" stroke="#e3c6f5" stroke-width="1"/>
+<text x="24" y="34" font-size="16" font-weight="700" fill="#4a1361">GitHub Stats — Akashlodhi928</text>
+<line x1="24" y1="44" x2="446" y2="44" stroke="#e3c6f5" stroke-width="1"/>
+
+<!-- Avatar ring -->
+<g transform="translate(400,90)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.6s" fill="freeze"/>
+  <circle r="34" fill="none" stroke="#eeddfa" stroke-width="7"/>
+  <circle r="34" fill="none" stroke="url(#ringGrad)" stroke-width="7" stroke-linecap="round"
+    stroke-dasharray="213.5 213.5" transform="rotate(-90)" filter="url(#statGlow)">
+    <animate attributeName="stroke-dasharray" from="0 213.5" to="213.5 213.5" begin="0.5s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </circle>
+  <text x="0" y="6" text-anchor="middle" font-size="20" font-weight="800" fill="#4a1361">AL</text>
+</g>
+
+<!-- Bars -->
+<!-- Repositories: 7 -->
+<g transform="translate(90,260)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/>
+  <rect x="-35" y="0" width="70" height="0" rx="14" fill="url(#barRepos)" filter="url(#statGlow)">
+    <animate attributeName="y" from="0" to="-105" begin="0.5s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="height" from="0" to="105" begin="0.5s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </rect>
+  <text x="0" y="-118" text-anchor="middle" font-size="20" font-weight="800" fill="#c026d3" opacity="0">7
+    <animate attributeName="opacity" to="1" begin="1.3s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="0" y="20" text-anchor="middle" font-size="12" fill="#7a3fa0">Repositories</text>
+</g>
+
+<!-- Stars: 13 -->
+<g transform="translate(210,260)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/>
+  <rect x="-35" y="0" width="70" height="0" rx="14" fill="url(#barStars)" filter="url(#statGlow)">
+    <animate attributeName="y" from="0" to="-195" begin="0.6s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="height" from="0" to="195" begin="0.6s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </rect>
+  <text x="0" y="-208" text-anchor="middle" font-size="20" font-weight="800" fill="#ffb020" opacity="0">13
+    <animate attributeName="opacity" to="1" begin="1.5s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="0" y="20" text-anchor="middle" font-size="12" fill="#7a3fa0">Stars</text>
+</g>
+
+<!-- Followers: 6 -->
+<g transform="translate(330,260)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/>
+  <rect x="-35" y="0" width="70" height="0" rx="14" fill="url(#barFollowers)" filter="url(#statGlow)">
+    <animate attributeName="y" from="0" to="-90" begin="0.7s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="height" from="0" to="90" begin="0.7s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </rect>
+  <text x="0" y="-103" text-anchor="middle" font-size="20" font-weight="800" fill="#0ea5e9" opacity="0">6
+    <animate attributeName="opacity" to="1" begin="1.7s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="0" y="20" text-anchor="middle" font-size="12" fill="#7a3fa0">Followers</text>
+</g>
+
+<!-- Following: 7 -->
+<g transform="translate(410,260)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/>
+  <rect x="-35" y="0" width="70" height="0" rx="14" fill="url(#barFollowing)" filter="url(#statGlow)">
+    <animate attributeName="y" from="0" to="-105" begin="0.8s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="height" from="0" to="105" begin="0.8s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </rect>
+  <text x="0" y="-118" text-anchor="middle" font-size="20" font-weight="800" fill="#22c55e" opacity="0">7
+    <animate attributeName="opacity" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
+  </text>
+  <text x="0" y="20" text-anchor="middle" font-size="12" fill="#7a3fa0">Following</text>
+</g>
+
+<line x1="24" y1="260" x2="446" y2="260" stroke="#e3c6f5" stroke-width="1"/>
+
+</g>
+</svg>
