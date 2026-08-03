@@ -94,8 +94,6 @@
   <img src="assets/trophies.svg?v=1" alt="GitHub Trophies" width="100%">
 </picture>
 
-> **Note:** These are local, self-contained SVG cards (no rate-limited third-party card services). The numbers are placeholders — swap in your real values, or wire up a small script against the GitHub API to regenerate them on a schedule.
-
 </div>
 
 <br>
@@ -112,14 +110,65 @@
 
 ## 📁 Featured Projects
 
-| Project | Tech Stack | Description | Link |
-|---|---|---|---|
-| MERN E-Commerce Platform | React · Node.js · Express · MongoDB · JWT | Full-featured storefront with cart, auth, and admin dashboard | [Repo](https://github.com/Akashlodhi928) |
-| Real-Time Chat App | Socket.IO · React · Node.js · MongoDB | Live messaging app with rooms, typing indicators & auth | [Repo](https://github.com/Akashlodhi928) |
-| Task Management SaaS | Next.js · Redux Toolkit · REST APIs | Kanban-style productivity app with drag-and-drop boards | [Repo](https://github.com/Akashlodhi928) |
-| Blog CMS with Django REST | Django · DRF · React · PostgreSQL | Headless CMS powering a decoupled React frontend | [Repo](https://github.com/Akashlodhi928) |
+<div align="center">
 
-> Replace these rows with your actual pinned repositories and live demo links.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [QuickStay](https://github.com/Akashlodhi928/QuickStay)
+A full-stack **MERN** application for discovering, listing, and booking villas, farmhouses, flats, PGs, rooms, cabins, pools, and commercial spaces — with user authentication, host dashboards, and property management.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 [SnapCart](https://github.com/Akashlodhi928/socket-snapcart)
+A real-time **food delivery platform** with live order tracking, instant order status updates via Socket.IO, cart management, and a smooth checkout flow — built end-to-end on the MERN stack.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 [front-to-back-snapcart](https://github.com/Akashlodhi928/front-to-back-snapcart)
+The complete **front-to-back rebuild** of SnapCart in TypeScript — a type-safe version of the food delivery system covering both client and server layers for better scalability and maintainability.
+
+`TypeScript` `React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [RealTime-ChatApp](https://github.com/Akashlodhi928/RealTime-ChatApp)
+A live messaging application with instant chat rooms, typing indicators, and authenticated user sessions — powered by Socket.IO for real-time, bidirectional communication.
+
+`React` `Node.js` `Socket.IO` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [Attendance](https://github.com/Akashlodhi928/Attendance)
+A web-based attendance management system to mark, track, and manage attendance records efficiently, with a clean dashboard for quick record-keeping.
+
+`JavaScript` `React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+<sub>⭐ More projects on my <a href="https://github.com/Akashlodhi928?tab=repositories">GitHub repositories page</a></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
